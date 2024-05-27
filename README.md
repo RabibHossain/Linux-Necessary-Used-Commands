@@ -16,3 +16,7 @@
   ```sh
   lsof -i -P -n
   ```  
+- [x] Terminate/kill a specific ip with port using process IF ☟
+  ```sh
+  kill pid
+  ```  
